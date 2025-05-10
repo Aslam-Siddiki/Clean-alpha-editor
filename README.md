@@ -2,5 +2,5 @@
 A simple JavaScript-based text editor that accepts **only alphabetic characters (A-Z, a-z)**. All numbers, symbols, and special characters are ignored while typing.
 <br>
 <br>
-----Arch by MERNStack Aslam.
+----Arch by MERNStack Developer Aslam.
 
